@@ -9,6 +9,14 @@
 ## Follow my page
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learn.apply.build/)&nbsp;&nbsp;
 
+### Info
+- 🔭 I’m currently working on **Machine Learning**, **Natural language processing** and **Deep Learning** **Chatbots** **Algo Trading**
+- 🌱 I’m currently learning **Algorithmic Trading - Python**
+- 👯 I’m looking to collaborate on **Flutter** and **Computer vision** **Flask** **Front-End for Trading app**
+- 💬 Ask me about **Trading**, **Python for Finance**, **Devops**, **AWS**
+
+
+
 ##
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
