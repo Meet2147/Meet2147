@@ -1,4 +1,4 @@
-### Hi there 👋 Meet Jethwa here 
+### Hi there 👋 My Name is Meet Jethwa, I am a technology Enthusiast😎
 
 ## Connect with me
 
