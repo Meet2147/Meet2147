@@ -59,3 +59,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meet2147&theme=dark)](https://git.io/streak-stats)
 <br/>
+
+##
+## Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet2147&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
