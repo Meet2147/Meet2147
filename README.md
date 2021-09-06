@@ -51,3 +51,11 @@
 [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)&nbsp;
 [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=black)](https://plotly.com/python/)&nbsp;
 
+##
+## GitHub stats
+
+![Meet GitHub stats](https://github-readme-stats.vercel.app/api?username=Meet2147&theme=dark&show_icons=true)
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Meet2147&theme=dark)](https://git.io/streak-stats)
+<br/>
